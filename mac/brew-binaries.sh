@@ -23,8 +23,8 @@ brew install gnu-sed
 # brew install mkcert
 # brew install nss
 
-# Install `wget` with IRI support.
-brew install wget --with-iri
+# Install `wget`.
+brew install wget
 
 brew install gmp
 brew install grep
@@ -37,6 +37,11 @@ brew install node
 brew install git
 brew install git-lfs
 brew install github/gh/gh
+brew install terraform
+brew install azure-cli
+brew install kubectl
+brew install helm
+brew install awscli
 # brew install imagemagick --with-webp
 # brew install ngrok
 # brew install p7zip
